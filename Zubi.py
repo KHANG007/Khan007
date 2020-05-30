@@ -84,7 +84,7 @@ print " \x1b[1;93m⚔═══════════════════�
 
 CorrectUsername = "zubi"
 CorrectPassword = "zubi"
-Z
+
 loop = 'true'
 while (loop == 'true'):
     username = raw_input("\033[1;96m[☆] \x1b[0;31mUSERNAME TOOLS INI \x1b[1;96m>>>> ")
